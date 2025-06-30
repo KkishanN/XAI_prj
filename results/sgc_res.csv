@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1,Exp Accuracy (Concept 0),Exp Precision (Concept 0),Exp Recall (Concept 0),Exp F1 (Concept 0),Exp Accuracy (Concept 1),Exp Precision (Concept 1),Exp Recall (Concept 1),Exp F1 (Concept 1)
+SGC,1.0000,1.0000,1.0000,1.0000,0.84375,0.8666666666666667,0.8125,0.8387096774193549,1.0,1.0,1.0,1.0
