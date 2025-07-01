@@ -13,7 +13,7 @@ To set up the project, follow these steps:
 
 2. **Create a virtual environment**:
     ```bash
-    python -m venv venv
+    python -m venv venv    #tested with 3.10
     ```
 
 3. **Activate the virtual environment**:
